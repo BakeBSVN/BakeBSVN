@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&height=200&section=header&text=Hi%20I'm%20Bake%20👋&fontSize=70&animation=fadeIn&color=auto" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&height=250&color=gradient&customColorList=1&section=header&text=Hi%20I'm%20Bake%20👋&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Space&descAlignY=55&descAlign=50" />
 </p>
+
 <div align="center">
-  <h3>🐍 Python Developer | Backend Enthusiast | Tech Explorer</h3>
-  <p>Code, coffee & chaos — welcome! ☕💻</p>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Elden Ring GIF" width="400"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=🐍+Python+Developer;⚙️+Backend+Enthusiast;🚀+Tech+Explorer" alt="Typing SVG" /></a>
+  <p><i>Code, coffee & chaos — welcome! ☕💻</i></p>
+  <br>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Elden Ring GIF" width="350"/>
 </div>
 
 ---
