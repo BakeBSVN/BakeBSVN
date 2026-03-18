@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&height=200&section=header&text=Hi%20I'm%20Bake%20👋&fontSize=70&animation=fadeIn&colorStart=1e3c72&colorEnd=2a5298" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&height=200&section=header&text=Hi%27m%20Bake%20👋&fontSize=70&animation=fadeIn&color=gradient&gradient=135,1e3c72,2a5298,e0c3fc" />
 </p>
-
 <div align="center">
   <h3>🐍 Python Developer | Backend Enthusiast | Tech Explorer</h3>
   <p>Code, coffee & chaos — welcome! ☕💻</p>
