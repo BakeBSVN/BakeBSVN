@@ -1,20 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&height=250&color=gradient&customColorList=1&section=header&text=Hi%20I'm%20Bake%20👋&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Space&descAlignY=55&descAlign=50" />
+  <!-- Full-width gradient header (upload gradient PNG vào repo) -->
+  <img src="https://raw.githubusercontent.com/BakeBSVN/YourRepo/main/header-gradient.png" alt="Hi I'm Bake 👋" width="100%" style="border-radius:15px;box-shadow:0 10px 30px rgba(0,0,0,0.5);" />
+  <!-- Elden Ring floating GIF -->
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Elden Ring" width="300" style="position:relative; top:-180px; animation: float 3s ease-in-out infinite;" />
 </p>
 
+<style>
+@keyframes float {
+  0% { transform: translatey(0px); }
+  50% { transform: translatey(-20px); }
+  100% { transform: translatey(0px); }
+}
+</style>
+
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=🐍+Python+Developer;⚙️+Backend+Enthusiast;🚀+Tech+Explorer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=550&lines=🐍+Python+Developer;⚙️+Backend+Enthusiast;🚀+Tech+Explorer" alt="Typing SVG" />
+  </a>
   <p><i>Code, coffee & chaos — welcome! ☕💻</i></p>
-  <br>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Elden Ring GIF" width="350"/>
 </div>
 
 ---
 
 ### 🚀 About Me
-- 👨‍💻 **Who I am:** A Python developer passionate about building stable and efficient backend systems.  
-- 🎓 **Learning:** Always exploring AI, Docker, and data optimization solutions.  
-- 🔭 **Projects:** Check out my dedicated projects at [GitHub Projects](https://github.com/BakeBSVN).  
+- 👨‍💻 **Who I am:** Python developer building stable and efficient backend systems.  
+- 🎓 **Learning:** AI, Docker, and cutting-edge data solutions.  
+- 🔭 **Projects:** See my work at [GitHub Projects](https://github.com/BakeBSVN).  
 - 📫 **Contact:** [hphong1v1@gmail.com](mailto:hphong1v1@gmail.com)  
 
 ---
@@ -31,7 +42,7 @@
 ---
 
 ### 🤝 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://dev.to/bake"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
   <a href="https://fb.com/phongle"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.leetcode.com/phongle"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
