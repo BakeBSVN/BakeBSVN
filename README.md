@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&height=250&color=gradient&customColorList=1&section=header&text=Hi%20I'm%20Bake%20👋&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Space&descAlignY=55&descAlign=50" />
-</p>
+</p> -->
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=🐍+Python+Developer;⚙️+Backend+Enthusiast;🚀+Tech+Explorer" alt="Typing SVG" /></a>
